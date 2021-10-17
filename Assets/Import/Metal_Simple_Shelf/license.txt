@@ -1,0 +1,11 @@
+Model Information:
+* title:	Metal Simple Shelf
+* source:	https://sketchfab.com/3d-models/metal-simple-shelf-04424177a85045d7907a0ca26d1b05fa
+* author:	Inglemere (https://sketchfab.com/Inglemere)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Metal Simple Shelf" (https://sketchfab.com/3d-models/metal-simple-shelf-04424177a85045d7907a0ca26d1b05fa) by Inglemere (https://sketchfab.com/Inglemere) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

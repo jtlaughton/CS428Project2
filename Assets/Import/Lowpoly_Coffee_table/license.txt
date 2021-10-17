@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Coffee table
+* source:	https://sketchfab.com/3d-models/lowpoly-coffee-table-24bda8a15d4e4f16b5fca86c153aa8b5
+* author:	Petra K (https://sketchfab.com/petrakot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Coffee table" (https://sketchfab.com/3d-models/lowpoly-coffee-table-24bda8a15d4e4f16b5fca86c153aa8b5) by Petra K (https://sketchfab.com/petrakot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
